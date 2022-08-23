@@ -6,3 +6,16 @@ body {
 a {
   color: #00B7FF;
 }
+.index_container{
+  text-align: center;
+height: 100vh;
+color: white;
+font-family: 'Raleway', sans-serif;
+display: flex;
+flex-direction: column;
+  justify-content: center;
+  background-image: url('../images/cinema.jpg');
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; 
+}
